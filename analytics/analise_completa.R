@@ -1,5 +1,5 @@
 # Script R para Análise Descritiva e Regressão Logística
-
+install.packages("readr")
 # Objetivo: Realizar a análise descritiva do banco de dados e, em seguida,executar uma Regressão Logística para avaliar a probabilidade de Sobrecarga em função do Estresse.
 
 # 1. Carregamento de Pacotes)
@@ -10,8 +10,10 @@ library(ggplot2)
 library(tidyr)
 library(scales)
 
+getwd()
+
 # 2. Carregamento dos Dados
-dados <- read_csv("banco.csv", 
+dados <- read_csv("/Users/pedrolopeshls/Documents/FIAP/projetos/HumanMate/analytics/banco.csv",
                   col_types = cols(
                     SEXO = readr::col_factor(levels = c("F", "M")),
                     DTNASC = readr::col_date(format = "%d/%m/%Y"),
@@ -181,4 +183,4 @@ grafico_regressao <- dados_reg %>%
   theme_minimal()
 
 # Salvar o gráfico
-ggsave("grafico_regressao_logistica_sobrecarga.png", plot = grafico_regressao, width = 10, height = 6)
+ggsave("/Users/pedrolopeshls/Documents/FIAP/projetos/HumanMate/analytics/grafico_regressao_logistica_sobrecarga.png", plot = grafico_regressao, width = 10, height = 6)
