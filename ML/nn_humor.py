@@ -1,7 +1,7 @@
 # nn_humor.py
 import pandas as pd
 import numpy as np
-from app.db import conn
+from db import conn
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 import tensorflow as tf
