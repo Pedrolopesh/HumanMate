@@ -1,0 +1,201 @@
+SEXO,DTNASC,IDADE,HRSDORMIDAS,HRSTRABALHADAS,TPTAREFAS,HUMOR,SOBRECARGA,QUALSONO,ENERGIA,ESTRESSE,VELDIGITACAO,TEMPOPAUSA,TEMPOTELALIGADA,TEMPOINTERACAO,TEMPOMOUSE
+F,26/03/1963,62,5 horas ou mais,mais de 8 horas,domésticas,Muito ruim,Sim,Não,3,3,5,297,8464,3466,8263
+M,17/04/1961,64,menos de 5 horas,mais de 8 horas,domésticas,Muito bom,Sim,Não,5,1,9,88,1943,4110,3652
+M,18/06/1945,80,menos de 5 horas,8 horas ou menos,laborais,Ruim,Sim,Não,2,4,5,78,2843,4126,8256
+M,02/08/2000,25,menos de 5 horas,mais de 8 horas,laborais,Muito ruim,Sim,Não,2,5,5,198,8139,4785,2739
+F,28/04/1979,46,menos de 5 horas,mais de 8 horas,laborais,Neutro,Sim,Sim,1,2,3,263,9569,346,8521
+F,28/02/1965,60,5 horas ou mais,8 horas ou menos,domésticas,Ruim,Sim,Sim,5,4,8,292,5911,5075,8513
+M,12/01/1976,49,5 horas ou mais,mais de 8 horas,laborais,Muito ruim,Não,Sim,2,5,8,57,756,1383,8283
+F,10/11/1955,70,5 horas ou mais,mais de 8 horas,pessoais,Muito bom,Sim,Não,4,1,3,287,2180,8326,1753
+M,20/08/1932,93,5 horas ou mais,mais de 8 horas,domésticas,Neutro,Sim,Não,3,2,3,207,1718,8100,938
+F,01/11/1957,68,5 horas ou mais,8 horas ou menos,domésticas,Muito ruim,Não,Sim,2,2,4,149,3368,3284,6981
+F,18/04/1991,34,5 horas ou mais,8 horas ou menos,domésticas,Muito ruim,Sim,Não,4,5,4,62,8613,1944,1062
+M,19/01/1961,64,menos de 5 horas,8 horas ou menos,pessoais,Muito ruim,Sim,Sim,2,4,4,29,3506,8625,8881
+F,15/05/1956,69,menos de 5 horas,mais de 8 horas,laborais,Ruim,Não,Sim,1,3,1,161,5238,6477,10000
+M,06/03/1991,34,menos de 5 horas,8 horas ou menos,laborais,Muito bom,Sim,Sim,3,3,4,199,9099,6201,2427
+M,12/09/1977,48,menos de 5 horas,8 horas ou menos,pessoais,Bom,Não,Sim,4,3,5,21,6158,2987,1818
+M,19/04/1948,77,5 horas ou mais,8 horas ou menos,domésticas,Neutro,Não,Sim,5,1,8,93,3153,4606,7816
+M,09/11/1953,72,menos de 5 horas,mais de 8 horas,domésticas,Ruim,Sim,Sim,3,1,7,234,4759,77,6425
+F,19/11/1949,75,5 horas ou mais,8 horas ou menos,domésticas,Muito ruim,Sim,Não,1,3,1,135,6157,2590,8178
+M,02/02/1968,57,5 horas ou mais,mais de 8 horas,pessoais,Muito bom,Sim,Sim,2,4,7,223,9036,7597,7170
+F,16/06/2006,19,5 horas ou mais,mais de 8 horas,domésticas,Bom,Não,Não,4,5,4,277,7932,8118,2115
+M,06/05/1960,65,5 horas ou mais,8 horas ou menos,laborais,Muito bom,Não,Sim,5,2,5,39,3804,5046,2521
+F,22/01/2007,18,menos de 5 horas,8 horas ou menos,pessoais,Bom,Não,Não,1,5,3,209,5093,8052,6175
+F,30/12/1969,55,5 horas ou mais,8 horas ou menos,laborais,Ruim,Sim,Não,2,3,3,178,2287,7434,7894
+M,11/11/1957,68,menos de 5 horas,8 horas ou menos,pessoais,Bom,Sim,Sim,2,1,9,141,7061,915,5955
+M,15/09/1931,94,menos de 5 horas,mais de 8 horas,laborais,Muito bom,Não,Não,2,3,3,188,753,9061,8078
+M,05/07/1933,92,5 horas ou mais,mais de 8 horas,laborais,Muito bom,Não,Não,4,2,9,274,6368,4629,9489
+F,15/05/1937,88,menos de 5 horas,mais de 8 horas,pessoais,Neutro,Não,Sim,4,5,1,280,9215,5666,9043
+M,04/09/1970,55,5 horas ou mais,8 horas ou menos,laborais,Muito bom,Não,Sim,5,2,3,259,7264,5075,8049
+F,19/08/1941,84,5 horas ou mais,8 horas ou menos,pessoais,Muito ruim,Não,Sim,2,3,3,43,7539,4104,755
+M,24/04/1948,77,menos de 5 horas,8 horas ou menos,domésticas,Ruim,Não,Sim,3,3,8,34,3463,6145,6978
+F,24/09/1987,38,5 horas ou mais,mais de 8 horas,laborais,Muito ruim,Sim,Não,5,3,5,210,2429,6327,6284
+F,05/01/1989,36,5 horas ou mais,mais de 8 horas,pessoais,Muito bom,Sim,Não,5,3,1,10,8961,3407,1267
+M,10/10/1998,27,5 horas ou mais,mais de 8 horas,laborais,Bom,Não,Sim,5,4,5,255,6147,943,4504
+F,06/09/1930,95,5 horas ou mais,mais de 8 horas,domésticas,Bom,Não,Não,2,2,9,256,1398,2830,6401
+F,14/04/2004,21,menos de 5 horas,mais de 8 horas,domésticas,Muito bom,Não,Sim,1,5,2,284,4116,6943,1362
+F,27/01/2003,22,menos de 5 horas,8 horas ou menos,domésticas,Bom,Sim,Não,3,2,6,137,8556,6490,2653
+F,22/04/1941,84,5 horas ou mais,8 horas ou menos,pessoais,Bom,Sim,Sim,3,1,3,265,1722,1159,3299
+F,05/01/1973,52,menos de 5 horas,8 horas ou menos,pessoais,Neutro,Sim,Sim,2,4,4,79,640,5534,8571
+F,06/06/1960,65,5 horas ou mais,mais de 8 horas,pessoais,Bom,Não,Não,2,5,9,165,5479,9326,8535
+F,04/07/1930,95,menos de 5 horas,8 horas ou menos,domésticas,Bom,Não,Não,4,4,3,42,3153,2013,604
+F,01/10/1998,27,5 horas ou mais,8 horas ou menos,laborais,Muito ruim,Sim,Sim,2,1,2,142,7504,3331,8164
+F,04/12/1961,63,5 horas ou mais,mais de 8 horas,pessoais,Muito ruim,Não,Não,5,4,1,165,3223,8942,4670
+F,07/07/1956,69,menos de 5 horas,mais de 8 horas,domésticas,Bom,Sim,Sim,5,2,2,77,463,7424,3255
+F,11/06/1990,35,5 horas ou mais,mais de 8 horas,pessoais,Bom,Sim,Não,3,5,9,295,6665,5177,2921
+F,20/11/1999,25,5 horas ou mais,mais de 8 horas,pessoais,Muito ruim,Não,Sim,4,4,7,109,9365,8175,2044
+F,15/11/1977,48,menos de 5 horas,mais de 8 horas,laborais,Muito ruim,Não,Sim,2,5,7,266,6757,7230,973
+M,29/12/1997,27,menos de 5 horas,mais de 8 horas,domésticas,Muito ruim,Não,Sim,1,3,9,291,2991,5434,1491
+F,25/11/2001,23,5 horas ou mais,8 horas ou menos,domésticas,Muito bom,Não,Não,1,5,4,179,2245,7521,5546
+F,08/09/1995,30,menos de 5 horas,mais de 8 horas,laborais,Muito bom,Não,Não,5,4,3,158,4195,9665,1983
+F,29/01/1981,44,5 horas ou mais,mais de 8 horas,domésticas,Neutro,Não,Não,1,3,8,270,1774,7044,4696
+M,22/08/1970,55,5 horas ou mais,mais de 8 horas,laborais,Neutro,Sim,Sim,1,1,3,256,6726,6479,6957
+M,10/03/1935,90,menos de 5 horas,mais de 8 horas,laborais,Neutro,Sim,Não,2,5,1,100,6445,1449,7987
+F,28/12/2004,20,5 horas ou mais,8 horas ou menos,domésticas,Neutro,Sim,Sim,5,5,4,138,9850,7290,487
+F,18/05/2002,23,5 horas ou mais,mais de 8 horas,pessoais,Ruim,Não,Não,3,4,1,230,3126,5154,7629
+M,20/01/2003,22,menos de 5 horas,8 horas ou menos,domésticas,Bom,Sim,Sim,3,1,4,275,8965,249,3022
+M,11/07/1962,63,5 horas ou mais,mais de 8 horas,domésticas,Neutro,Não,Sim,4,3,3,54,8868,4096,4785
+F,08/01/1932,93,menos de 5 horas,8 horas ou menos,domésticas,Ruim,Não,Sim,4,2,7,208,9186,8884,4982
+F,25/03/1932,93,5 horas ou mais,8 horas ou menos,pessoais,Neutro,Sim,Sim,2,5,3,40,6598,1004,8795
+M,23/08/1991,34,menos de 5 horas,mais de 8 horas,laborais,Muito ruim,Sim,Sim,5,1,10,263,1646,3127,4206
+F,18/11/1964,61,menos de 5 horas,8 horas ou menos,domésticas,Ruim,Sim,Sim,1,3,5,249,2741,4731,1355
+F,16/07/2000,25,5 horas ou mais,8 horas ou menos,laborais,Muito ruim,Sim,Sim,1,3,1,110,104,7748,8759
+M,01/08/1993,32,menos de 5 horas,mais de 8 horas,domésticas,Muito ruim,Sim,Não,3,1,5,235,5055,1976,2980
+M,16/04/1985,40,menos de 5 horas,8 horas ou menos,domésticas,Ruim,Sim,Sim,2,4,6,63,1006,7690,3123
+M,24/03/1935,90,menos de 5 horas,8 horas ou menos,laborais,Neutro,Sim,Não,4,4,1,232,214,2953,9089
+F,08/10/1993,32,5 horas ou mais,8 horas ou menos,domésticas,Bom,Sim,Sim,1,4,10,58,7673,9006,6217
+M,20/03/1960,65,menos de 5 horas,mais de 8 horas,pessoais,Neutro,Sim,Sim,3,1,2,278,2706,7471,81
+M,10/08/1988,37,5 horas ou mais,mais de 8 horas,domésticas,Ruim,Sim,Sim,1,4,4,120,7903,6522,2890
+M,02/10/1977,48,5 horas ou mais,8 horas ou menos,domésticas,Muito bom,Sim,Sim,5,4,4,118,2673,666,1676
+M,16/07/2007,18,5 horas ou mais,mais de 8 horas,laborais,Neutro,Não,Não,1,2,8,100,7143,2189,1667
+F,02/08/1956,69,menos de 5 horas,mais de 8 horas,pessoais,Muito ruim,Sim,Sim,5,1,9,88,558,4985,8666
+M,02/02/1974,51,5 horas ou mais,mais de 8 horas,pessoais,Muito ruim,Sim,Sim,1,5,7,282,89,5915,9057
+F,21/06/2005,20,menos de 5 horas,8 horas ou menos,domésticas,Neutro,Sim,Sim,3,5,1,231,4951,63,9929
+M,03/04/1928,97,menos de 5 horas,mais de 8 horas,pessoais,Neutro,Sim,Sim,3,4,1,285,1321,4039,9079
+F,26/04/2005,20,5 horas ou mais,8 horas ou menos,laborais,Muito bom,Sim,Sim,4,1,9,272,683,5047,9305
+M,16/06/1957,68,menos de 5 horas,8 horas ou menos,laborais,Ruim,Não,Não,1,1,7,23,7756,7867,2884
+F,30/10/1960,65,menos de 5 horas,mais de 8 horas,laborais,Muito ruim,Não,Sim,2,5,4,105,1518,1078,47
+M,27/11/1936,88,5 horas ou mais,mais de 8 horas,domésticas,Neutro,Não,Sim,1,3,6,191,8369,5525,7138
+F,22/10/1970,55,5 horas ou mais,mais de 8 horas,pessoais,Neutro,Não,Não,3,4,6,70,299,9340,7615
+M,21/12/1986,38,menos de 5 horas,8 horas ou menos,laborais,Bom,Não,Não,4,2,6,285,6233,5912,5942
+M,02/08/1959,66,5 horas ou mais,mais de 8 horas,laborais,Ruim,Sim,Não,2,3,8,193,3202,868,4830
+F,10/05/1980,45,menos de 5 horas,8 horas ou menos,laborais,Ruim,Sim,Não,5,1,4,243,890,9914,7417
+F,05/03/1990,35,menos de 5 horas,8 horas ou menos,laborais,Bom,Não,Sim,1,3,8,144,1496,7660,8139
+F,10/09/1990,35,menos de 5 horas,8 horas ou menos,laborais,Ruim,Sim,Sim,3,4,3,288,222,259,1308
+F,28/02/1957,68,5 horas ou mais,8 horas ou menos,pessoais,Bom,Sim,Sim,5,5,8,65,2665,3360,4674
+M,07/10/1953,72,menos de 5 horas,8 horas ou menos,laborais,Neutro,Não,Sim,4,2,2,160,7784,4567,621
+M,25/12/1944,80,menos de 5 horas,mais de 8 horas,pessoais,Bom,Não,Não,4,4,8,294,811,683,2538
+M,27/01/1982,43,menos de 5 horas,mais de 8 horas,laborais,Muito ruim,Não,Sim,4,1,6,168,5671,8882,5645
+M,02/09/1926,99,menos de 5 horas,8 horas ou menos,domésticas,Muito ruim,Sim,Não,1,5,1,26,8839,2086,5406
+M,25/08/1958,67,5 horas ou mais,mais de 8 horas,pessoais,Muito ruim,Não,Sim,4,2,6,268,6282,8875,9240
+F,22/11/1965,59,5 horas ou mais,8 horas ou menos,domésticas,Bom,Não,Não,1,4,2,292,7784,3222,1890
+M,01/08/1943,82,menos de 5 horas,8 horas ou menos,pessoais,Muito bom,Não,Não,5,1,8,299,1484,7399,2920
+M,20/10/1968,57,5 horas ou mais,8 horas ou menos,domésticas,Bom,Não,Não,3,3,3,106,8140,195,3276
+F,24/05/1940,85,5 horas ou mais,8 horas ou menos,laborais,Ruim,Não,Não,4,3,6,11,2791,8190,6201
+F,25/05/1958,67,menos de 5 horas,mais de 8 horas,domésticas,Bom,Sim,Sim,1,1,10,252,6307,4451,5802
+F,22/10/1976,49,5 horas ou mais,8 horas ou menos,domésticas,Bom,Sim,Sim,3,5,8,184,4081,4800,9864
+M,28/07/1964,61,5 horas ou mais,8 horas ou menos,domésticas,Muito ruim,Não,Sim,4,5,6,89,2648,3330,1208
+M,09/11/1968,57,5 horas ou mais,8 horas ou menos,laborais,Muito bom,Não,Não,2,4,2,44,3740,2441,2979
+F,02/08/1974,51,5 horas ou mais,mais de 8 horas,pessoais,Muito bom,Não,Não,5,1,3,285,4234,7273,3456
+F,20/08/1939,86,5 horas ou mais,mais de 8 horas,pessoais,Neutro,Não,Não,5,1,10,140,8561,805,630
+M,22/03/1948,77,menos de 5 horas,mais de 8 horas,domésticas,Ruim,Sim,Não,2,5,2,191,8730,4062,4598
+F,15/08/1996,29,menos de 5 horas,mais de 8 horas,laborais,Ruim,Sim,Não,2,5,3,121,3591,9682,8320
+M,10/09/1968,57,menos de 5 horas,8 horas ou menos,pessoais,Muito ruim,Sim,Sim,5,1,7,173,8865,6654,8207
+M,12/12/1935,89,5 horas ou mais,8 horas ou menos,pessoais,Ruim,Sim,Sim,1,2,9,214,9352,9356,6265
+F,26/12/1978,46,5 horas ou mais,mais de 8 horas,laborais,Muito ruim,Não,Sim,2,2,8,289,3047,5765,6814
+M,30/05/1989,36,menos de 5 horas,mais de 8 horas,domésticas,Ruim,Não,Sim,5,5,8,87,6429,7547,7669
+F,27/08/1968,57,5 horas ou mais,mais de 8 horas,laborais,Ruim,Não,Não,3,2,2,259,3708,514,7191
+M,17/01/1964,61,menos de 5 horas,8 horas ou menos,domésticas,Bom,Sim,Não,1,4,8,177,9281,1956,3392
+M,10/05/1977,48,5 horas ou mais,8 horas ou menos,domésticas,Muito bom,Não,Não,3,4,4,245,2345,574,8880
+F,15/08/1962,63,menos de 5 horas,mais de 8 horas,pessoais,Muito ruim,Sim,Não,5,3,1,258,1845,5414,9208
+F,23/06/1946,79,menos de 5 horas,8 horas ou menos,laborais,Muito bom,Não,Não,1,5,7,206,2885,9702,2997
+F,29/11/1991,33,5 horas ou mais,8 horas ou menos,domésticas,Muito bom,Sim,Sim,1,5,8,291,7179,5853,8485
+F,18/01/1979,46,5 horas ou mais,mais de 8 horas,pessoais,Bom,Não,Sim,1,3,8,233,5296,4734,3990
+F,04/10/1941,84,menos de 5 horas,8 horas ou menos,domésticas,Ruim,Sim,Não,1,2,1,162,1080,2115,1461
+M,02/08/1950,75,5 horas ou mais,mais de 8 horas,pessoais,Neutro,Sim,Sim,2,5,2,78,9013,1011,2816
+F,23/09/2007,18,5 horas ou mais,mais de 8 horas,domésticas,Muito ruim,Não,Sim,3,2,3,198,6616,7903,6342
+M,31/03/1987,38,5 horas ou mais,mais de 8 horas,pessoais,Muito bom,Sim,Sim,2,4,8,74,5718,6656,5920
+F,27/09/1976,49,5 horas ou mais,8 horas ou menos,laborais,Neutro,Não,Não,3,5,2,76,6342,9305,9158
+M,31/01/1965,60,menos de 5 horas,8 horas ou menos,laborais,Ruim,Sim,Não,5,3,3,191,8057,5824,1335
+F,03/08/1948,77,menos de 5 horas,8 horas ou menos,pessoais,Muito ruim,Sim,Sim,4,4,2,102,4885,7076,7265
+F,12/01/1958,67,menos de 5 horas,8 horas ou menos,pessoais,Neutro,Não,Não,1,3,4,129,7110,9872,4562
+F,26/04/1988,37,5 horas ou mais,mais de 8 horas,domésticas,Muito bom,Não,Não,2,4,2,223,8637,1662,3064
+F,26/03/1980,45,menos de 5 horas,8 horas ou menos,laborais,Muito bom,Sim,Não,2,2,3,216,9610,6449,4356
+M,08/05/1947,78,menos de 5 horas,mais de 8 horas,laborais,Neutro,Sim,Não,3,2,5,254,4971,4936,2951
+F,05/12/1970,54,menos de 5 horas,8 horas ou menos,domésticas,Neutro,Não,Não,1,3,6,227,3785,987,7345
+M,07/08/1936,89,5 horas ou mais,mais de 8 horas,domésticas,Bom,Não,Não,2,3,4,47,6462,1483,2589
+F,06/09/1964,61,5 horas ou mais,mais de 8 horas,domésticas,Neutro,Sim,Sim,3,2,7,144,6818,3546,385
+F,26/09/1972,53,menos de 5 horas,mais de 8 horas,laborais,Neutro,Sim,Sim,3,5,8,230,6568,7349,463
+F,13/04/1982,43,menos de 5 horas,8 horas ou menos,laborais,Muito bom,Não,Sim,5,5,4,178,7202,7610,655
+F,07/05/1952,73,menos de 5 horas,mais de 8 horas,domésticas,Neutro,Sim,Não,4,3,10,82,2609,4324,8910
+F,18/11/2007,18,menos de 5 horas,8 horas ou menos,domésticas,Muito ruim,Não,Sim,3,4,6,137,2295,4208,6277
+M,13/11/1982,43,5 horas ou mais,8 horas ou menos,laborais,Bom,Sim,Sim,4,4,4,166,1705,4002,4781
+F,31/05/2001,24,5 horas ou mais,mais de 8 horas,laborais,Muito ruim,Não,Não,3,5,1,282,6500,5428,4981
+F,12/05/1937,88,menos de 5 horas,mais de 8 horas,laborais,Bom,Sim,Não,5,5,3,267,7981,9851,8506
+F,29/05/1947,78,menos de 5 horas,mais de 8 horas,domésticas,Muito bom,Não,Não,1,1,3,47,4751,7411,4040
+M,29/03/2002,23,5 horas ou mais,mais de 8 horas,laborais,Muito bom,Não,Não,4,5,1,101,3335,2927,6941
+F,28/12/1984,40,menos de 5 horas,mais de 8 horas,laborais,Bom,Sim,Não,3,2,10,69,2045,9861,8592
+F,11/06/1955,70,5 horas ou mais,8 horas ou menos,domésticas,Ruim,Sim,Não,1,1,4,299,6209,4532,7620
+M,19/12/1997,27,5 horas ou mais,8 horas ou menos,pessoais,Muito bom,Sim,Não,3,5,1,233,7166,9325,5803
+M,12/04/1954,71,5 horas ou mais,8 horas ou menos,laborais,Bom,Não,Não,3,4,4,249,331,9554,9005
+M,29/04/1977,48,menos de 5 horas,mais de 8 horas,pessoais,Bom,Sim,Sim,2,1,4,236,5411,5383,9111
+M,22/01/1938,87,5 horas ou mais,mais de 8 horas,pessoais,Muito ruim,Não,Não,1,5,7,57,6406,3657,1449
+F,03/07/1936,89,5 horas ou mais,8 horas ou menos,pessoais,Muito ruim,Sim,Não,3,5,8,78,5727,9695,2822
+M,13/08/1948,77,5 horas ou mais,mais de 8 horas,domésticas,Neutro,Sim,Sim,4,2,4,78,5495,3481,2003
+M,20/08/1985,40,menos de 5 horas,8 horas ou menos,laborais,Ruim,Não,Sim,3,1,8,239,2582,5899,2173
+M,04/04/1953,72,5 horas ou mais,8 horas ou menos,pessoais,Ruim,Não,Sim,3,3,4,229,1586,7712,4296
+F,29/07/1992,33,5 horas ou mais,8 horas ou menos,pessoais,Bom,Não,Não,3,5,5,175,8535,7719,5409
+F,31/05/1964,61,menos de 5 horas,8 horas ou menos,laborais,Neutro,Sim,Não,2,2,3,56,3886,8693,2888
+F,21/06/1990,35,menos de 5 horas,mais de 8 horas,pessoais,Ruim,Não,Não,1,2,6,82,8984,2683,1752
+F,05/01/1989,36,5 horas ou mais,8 horas ou menos,laborais,Ruim,Não,Não,4,3,8,95,1298,3945,9126
+M,09/04/1961,64,5 horas ou mais,8 horas ou menos,pessoais,Muito ruim,Não,Não,4,1,4,119,3658,2986,7551
+F,15/07/1959,66,5 horas ou mais,8 horas ou menos,domésticas,Muito bom,Sim,Não,1,1,10,202,5846,6086,9334
+F,20/08/1974,51,menos de 5 horas,mais de 8 horas,domésticas,Muito ruim,Não,Sim,1,1,6,211,6173,2070,9933
+F,22/03/1955,70,menos de 5 horas,mais de 8 horas,laborais,Muito bom,Sim,Sim,2,3,4,100,6798,6108,2863
+F,18/08/2006,19,menos de 5 horas,mais de 8 horas,laborais,Muito ruim,Não,Não,1,5,7,58,4647,8261,5753
+M,21/01/2002,23,5 horas ou mais,8 horas ou menos,domésticas,Neutro,Não,Sim,5,5,2,80,9713,8357,2741
+M,27/03/1995,30,menos de 5 horas,mais de 8 horas,laborais,Bom,Sim,Sim,3,4,6,129,873,5990,3033
+F,13/05/1980,45,menos de 5 horas,8 horas ou menos,laborais,Muito ruim,Não,Não,3,4,1,170,5454,4107,838
+F,05/01/1931,94,5 horas ou mais,mais de 8 horas,laborais,Muito bom,Sim,Sim,4,1,3,65,3368,8844,2927
+F,15/12/1986,38,menos de 5 horas,mais de 8 horas,laborais,Neutro,Não,Sim,5,4,4,92,4144,9589,9870
+F,27/05/1945,80,menos de 5 horas,mais de 8 horas,laborais,Muito ruim,Sim,Não,3,2,3,132,605,8397,2854
+F,29/08/1958,67,menos de 5 horas,8 horas ou menos,laborais,Muito bom,Não,Não,1,3,2,94,9770,6832,1267
+F,21/01/2006,19,5 horas ou mais,8 horas ou menos,laborais,Muito bom,Não,Sim,2,1,2,128,3720,7868,9467
+F,26/12/1927,97,menos de 5 horas,mais de 8 horas,laborais,Bom,Sim,Não,4,4,7,154,8870,7489,1145
+F,11/03/1926,99,menos de 5 horas,mais de 8 horas,laborais,Muito ruim,Sim,Sim,3,2,6,269,2287,9037,6136
+M,26/06/1947,78,menos de 5 horas,mais de 8 horas,laborais,Ruim,Sim,Não,2,3,9,133,1,4519,9186
+M,06/06/1969,56,5 horas ou mais,8 horas ou menos,domésticas,Muito bom,Sim,Sim,5,5,1,17,4273,6973,143
+F,06/07/1995,30,5 horas ou mais,8 horas ou menos,pessoais,Bom,Não,Sim,3,4,1,273,4953,1364,3999
+F,08/11/1986,39,5 horas ou mais,mais de 8 horas,domésticas,Muito ruim,Sim,Não,5,2,4,74,8126,9038,3398
+F,09/09/1981,44,5 horas ou mais,8 horas ou menos,domésticas,Ruim,Não,Sim,4,4,2,259,1506,6538,3955
+F,03/12/1936,88,5 horas ou mais,mais de 8 horas,laborais,Muito bom,Sim,Não,4,1,1,26,4882,5299,6830
+F,13/07/1958,67,menos de 5 horas,mais de 8 horas,laborais,Ruim,Sim,Não,5,2,1,118,678,399,7440
+F,15/08/1951,74,5 horas ou mais,mais de 8 horas,pessoais,Ruim,Não,Não,4,3,5,192,6654,9300,1470
+M,25/11/1990,34,5 horas ou mais,mais de 8 horas,laborais,Muito ruim,Sim,Sim,5,1,5,135,7591,5097,3275
+M,11/09/1992,33,5 horas ou mais,mais de 8 horas,laborais,Muito ruim,Não,Sim,3,3,5,206,2201,6055,8046
+M,09/08/1975,50,menos de 5 horas,mais de 8 horas,pessoais,Muito ruim,Não,Sim,1,5,6,231,9778,8587,693
+M,15/03/1988,37,menos de 5 horas,mais de 8 horas,domésticas,Neutro,Sim,Não,2,3,7,56,4491,1309,7675
+F,17/03/1958,67,5 horas ou mais,8 horas ou menos,domésticas,Muito bom,Não,Não,3,3,10,25,163,2807,8540
+F,14/10/1965,60,menos de 5 horas,mais de 8 horas,domésticas,Ruim,Sim,Sim,4,2,1,113,4065,1307,4672
+M,12/11/1935,90,menos de 5 horas,mais de 8 horas,domésticas,Ruim,Não,Sim,3,2,8,247,6190,8521,7499
+M,13/08/1928,97,5 horas ou mais,8 horas ou menos,laborais,Neutro,Sim,Sim,5,1,1,53,7134,6653,4792
+M,19/07/1948,77,5 horas ou mais,8 horas ou menos,pessoais,Muito ruim,Sim,Sim,5,5,6,158,6465,8530,9275
+M,07/08/2005,20,5 horas ou mais,mais de 8 horas,domésticas,Muito ruim,Não,Sim,1,5,3,183,9117,7432,4325
+F,02/03/1989,36,5 horas ou mais,mais de 8 horas,laborais,Bom,Sim,Não,2,3,6,148,353,3232,5572
+F,07/12/1966,58,5 horas ou mais,8 horas ou menos,laborais,Muito bom,Sim,Não,5,5,7,202,209,959,6430
+F,20/04/1929,96,menos de 5 horas,8 horas ou menos,laborais,Ruim,Sim,Não,2,5,10,184,9780,1868,2677
+M,16/04/1939,86,5 horas ou mais,mais de 8 horas,laborais,Bom,Não,Sim,3,2,4,163,8155,15,8930
+F,16/09/1927,98,menos de 5 horas,mais de 8 horas,domésticas,Muito ruim,Não,Sim,1,3,10,105,6803,709,56
+F,24/04/1997,28,menos de 5 horas,8 horas ou menos,domésticas,Ruim,Não,Não,4,3,7,90,6068,7095,1000
+M,25/08/1973,52,menos de 5 horas,8 horas ou menos,laborais,Muito bom,Não,Sim,4,1,6,121,2611,1544,3517
+M,04/09/1939,86,menos de 5 horas,mais de 8 horas,domésticas,Muito bom,Sim,Não,5,5,7,285,7649,4120,4236
+M,12/06/1928,97,5 horas ou mais,8 horas ou menos,domésticas,Muito bom,Não,Sim,2,2,9,163,4756,706,5265
+M,30/09/1954,71,5 horas ou mais,mais de 8 horas,pessoais,Muito ruim,Sim,Sim,2,1,7,169,5423,2190,600
+M,27/11/1998,26,5 horas ou mais,8 horas ou menos,domésticas,Neutro,Sim,Não,2,3,1,186,9608,9381,4709
+M,15/03/1983,42,menos de 5 horas,8 horas ou menos,laborais,Ruim,Sim,Sim,2,5,5,52,5546,1363,843
+M,02/11/1990,35,menos de 5 horas,mais de 8 horas,laborais,Muito bom,Sim,Sim,3,3,8,157,2419,5179,7474
+F,23/05/1950,75,5 horas ou mais,mais de 8 horas,laborais,Muito ruim,Não,Sim,4,3,3,123,3904,5939,1733
+F,19/03/1926,99,menos de 5 horas,8 horas ou menos,domésticas,Ruim,Não,Sim,4,4,9,296,8492,9370,497
+F,25/05/1973,52,menos de 5 horas,mais de 8 horas,domésticas,Bom,Sim,Não,5,4,6,271,87,2374,7377
+M,26/10/1960,65,5 horas ou mais,mais de 8 horas,laborais,Ruim,Sim,Sim,5,5,8,65,9430,5512,4346
+M,30/09/1980,45,menos de 5 horas,mais de 8 horas,pessoais,Muito ruim,Sim,Não,1,2,2,298,1466,7047,4645
