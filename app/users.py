@@ -2,7 +2,7 @@ from datetime import date
 
 from datetime import date
 
-from db import conexao, conn, cursor
+from app.db import conexao, conn, cursor
 from utils import read_nonempty, read_choice, read_date
 
 def cadastrar_usuario():

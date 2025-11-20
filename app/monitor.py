@@ -2,7 +2,7 @@ from datetime import date, datetime
 
 from app.wellbeing import calcular_indice_bem_estar
 from utils import read_choice, read_decimal, read_yesno, formatar_tempo
-from db import conexao, conn, cursor
+from app.db import conexao, conn, cursor
 from utils import read_decimal
 
 def perguntas_diarias(usuario):
@@ -129,7 +129,7 @@ def listar_perguntas_diarias(email):
 
 import random
 from datetime import date
-from db import conexao, conn, cursor
+from app.db import conexao, conn, cursor
 
 def capturar_metricas_usuario(usuario):
     print("\n===============================================")
@@ -224,9 +224,9 @@ def capturar_metricas_usuario(usuario):
     return registro
 
 # metrics.py
-from db import conexao, cursor
+from app.db import conexao, cursor
 # metrics.py
-from db import conexao, cursor
+from app.db import conexao, cursor
 
 def listar_metricas_usuario(email: str):
     print("\n===============================================")
